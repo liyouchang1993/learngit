@@ -1,2 +1,3 @@
 Git is a version control system
-Gittttt is free software
+Gittttt is free softwar
+Git has a mutable index called stage
